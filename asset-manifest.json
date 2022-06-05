@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1c94780.css",
+    "main.js": "/static/js/main.11fa5c42.js",
+    "static/media/fat_kirito_bg_removed.png": "/static/media/fat_kirito_bg_removed.27e14954b5f17fcea413.png",
+    "index.html": "/index.html",
+    "main.f1c94780.css.map": "/static/css/main.f1c94780.css.map",
+    "main.11fa5c42.js.map": "/static/js/main.11fa5c42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c94780.css",
+    "static/js/main.11fa5c42.js"
+  ]
+}
